@@ -1,4 +1,4 @@
-# new-promise
+# Arabam.com
 
 ## Project setup
 ```
